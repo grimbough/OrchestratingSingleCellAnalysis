@@ -1,0 +1,9 @@
+Bootstrap: docker
+From: bioconductor/bioconductor_full:devel
+
+%files
+  .Rprofile /usr/local/lib/R/etc/Rprofile.site
+  .Renviron /usr/local/lib/R/etc/Renviron.site
+
+%post
+  mkdir -p /usr/local/lib/R/host-site-library
