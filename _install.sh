@@ -3,7 +3,7 @@
 ## Write the DESCRIPTION file and install/update libraries used throughout the book
 
 BASE=OSCABase
-BIOCVERSION=3.10
+BIOCVERSION=3.11
 
 ## Library location; assume R_LIBS_USER is first in .libPaths()
 LIBLOC=$(R --no-save --slave -e "cat(.libPaths()[1])") 
