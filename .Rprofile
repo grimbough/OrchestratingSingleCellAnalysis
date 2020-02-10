@@ -1,2 +1,2 @@
+options(Ncpus=8)
 options(bitmapType='cairo')
-options(Ncpus=6)
