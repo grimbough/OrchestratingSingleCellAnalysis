@@ -1,6 +1,6 @@
 --- 
 title: "Orchestrating Single-Cell Analysis with Bioconductor"
-date: "2020-01-09"
+date: "2020-03-06"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [ref.bib, packages.bib]
@@ -22,7 +22,7 @@ This book is organized into three parts. In the _Preamble_, we introduce the boo
 
 The second part, _Focus Topics_, begins with an overview of the framework for analysis of scRNA-seq data, with deeper dives into specific topics are presented in each subsequent chapter. 
 
-THe third part, _Workflows_, provides primarily code detailing the analysis of various datasets throughout the book.
+The third part, _Workflows_, provides primarily code detailing the analysis of various datasets throughout the book.
 
 Finally, the _Appendix_ highlights our contributors.
 
@@ -38,4 +38,4 @@ This website is __free to use__, and is licensed under the [Creative Commons Att
 
 
 _Version 0.0.1.9999_
-_Built on 2020-01-09_
+_Built on 2020-03-06_
